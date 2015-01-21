@@ -19,7 +19,7 @@ public class MainActivity : Activity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
-
+        //ToDo update Data
         var song = Song()
 
         song.songTitle = "Good by My Lover"
